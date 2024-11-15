@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Edu AU VIC WA NT Pre';
+    src: url('../fonts/EduAUVICWANTPre-Bold.woff2') format('woff2'),
+        url('../fonts/EduAUVICWANTPre-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+h1{
+    font-family: "Edu AU VIC WA NT Pre";
+}
+p{
+    font-family: "Edu AU VIC WA NT Pre";
+}
